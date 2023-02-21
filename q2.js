@@ -1,2 +1,2 @@
-var myname = "Eric,";
-console.log('"Hello ' + myname + ' would you like to learn some Python today?”');
+var my_name = "Eric,";
+console.log("\"Hello ".concat(my_name, " would you like to learn some Python today?\u201D"));

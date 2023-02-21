@@ -1,2 +1,2 @@
-let myname = "Eric,"
-console.log('"Hello '+myname+' would you like to learn some Python today?”');
+let my__name = "Eric,"
+console.log(`"Hello ${my_name} would you like to learn some Python today?”`);

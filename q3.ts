@@ -1,4 +1,4 @@
-let my_name = "Ahmad Bilal"
+let myNname = "Ahmad Bilal"
 let my_name1 = 'ahmad'
 
 
